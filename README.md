@@ -1,4 +1,4 @@
-## 软件截图
+## showcase  软件截图
 
 ![English](images/english.png)
 
@@ -6,4 +6,4 @@
 
 ![French](images/france.png)
 
-![Arabic](images/arbic.png)
+![Arabic](images/arabic.png)
