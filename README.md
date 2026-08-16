@@ -1,9 +1,9 @@
-## showcase  软件截图
+## showcase 
 
 ![English](images/english.png)
+
+![Arabic](images/arabic.png)
 
 ![中文](images/chinese.png)
 
 ![French](images/france.png)
-
-![Arabic](images/arabic.png)
