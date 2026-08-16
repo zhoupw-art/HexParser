@@ -1,6 +1,9 @@
-HexParser
-├── images
-│   ├── arbic.png
-│   ├── english.png
-│   └── france.png
-│   └── chinese.png
+## 软件截图
+
+![English](images/english.png)
+
+![中文](images/chinese.png)
+
+![French](images/france.png)
+
+![Arabic](images/arbic.png)
