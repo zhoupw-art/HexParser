@@ -1,0 +1,8 @@
+*.pro.user
+build-*/
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
